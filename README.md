@@ -1,9 +1,8 @@
 ## Hi there 👋
 ## My name is Fatima Atif!
 ## 🎓 Cybersecurity at the University of Texas at San Antonio
-## 
 ## 🌱 I’m currently exploring Operating Systems to understand core concepts like memory management, process handling, and system architecture. I’m deepening my skills in Java programming, with a focus on object-oriented design, data structures, and algorithms to build efficient software. Additionally, I’m learning project management strategies to enhance my ability to manage complex tasks, optimize workflows, and execute projects effectively in team settings. 
-## - 📫 How to reach me: https://www.linkedin.com/in/fatimaatif/ 
+## 📫 How to reach me: https://www.linkedin.com/in/fatimaatif/ 
 <!--
 **fatimaagit/fatimaagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
